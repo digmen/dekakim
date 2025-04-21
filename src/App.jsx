@@ -10,6 +10,7 @@ function App() {
   return (
     <>
       <div className='App'>
+         <img src="/images/example.jpg" alt="Пример" />
         {language === 'en' ?
           <div>
             The site is under development
